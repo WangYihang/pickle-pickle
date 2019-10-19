@@ -27,6 +27,9 @@ Usage:
 root
 ```
 
+#### Restriction
+* Only tested on Python 3.7.4
+
 #### Reference
 * Source Code
     * https://github.com/python/cpython/blob/master/Lib/pickle.py
